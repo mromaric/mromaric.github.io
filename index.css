@@ -105,12 +105,6 @@ section > div{
     flex-flow: row wrap;
     align-items: center;
 }
-.contact-flex p:first-child{
-    flex: 0 0 40%;
-}
-.contact-flex p:last-child{
-    flex: 0 0 60%;
-}
 
 /*SECTION EXP ET FORMATION*/
 
@@ -135,13 +129,6 @@ section > div{
 }
 .exp img{
     width: 100%;
-}
-.exp h3{
-    font-size:  1.2em;
-}
-.exp h4{
-    font-size:  1em;
-    font-weight: normal;
 }
 
 /*SECTION COMPETENCES*/
