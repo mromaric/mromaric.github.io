@@ -6,11 +6,7 @@
     text-align: justify;
     box-sizing: border-box;
 }
-/*@media (prefers-color-scheme: dark) {
-    html {
-    filter: invert(100%);
-    }
-}*/
+
 body{
     background: #4c9dea;
 }
@@ -82,10 +78,10 @@ section > div{
 }
 .photo img{
     width: 160px;
-    height: 190px;
+    height: 120px;
     border: 3px solid #fff;
-    margin-top: 15px;
-    margin-right: 50px;
+    margin-top: 40px;
+    margin-right: 40px;
 }
 .prez{
     border-bottom: 2px dashed #ccc;
