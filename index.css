@@ -141,6 +141,11 @@ section > div{
     justify-content: center;
 }
 
+.comp a p {
+    width: 50%;
+    text-align: center;
+}
+
 /*SECTION INTERETS*/
 .interet{
     flex: 0 1 50%;
